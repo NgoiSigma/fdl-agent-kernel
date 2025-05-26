@@ -29,7 +29,7 @@ FDL supports:
 ## 🚀 Quick Start
 Clone the repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/fdl-agent-kernel.git
+git clone https://github.com/NgoiSigma/fdl-agent-kernel.git
 cd fdl-agent-kernel
 ```
 
@@ -56,6 +56,13 @@ fdl-agent-kernel/
 Run a working reasoning loop:
 ```bash
 python examples/fdl_agent_demo.py
+
+---
+
+## 🧠 Что демонстрирует пример:
+- Чёткий reasoning loop
+- Внутреннее противоречие → синтез
+- Этическую фильтрацию результата
 
 ---
 
