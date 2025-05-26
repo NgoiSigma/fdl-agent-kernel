@@ -51,6 +51,11 @@ fdl-agent-kernel/
 ├── LICENSE              # Apache 2.0 License
 ├── docs/                # FDL manifest and memos
 ```
+## 🔁 Example
+
+Run a working reasoning loop:
+```bash
+python examples/fdl_agent_demo.py
 
 ---
 
